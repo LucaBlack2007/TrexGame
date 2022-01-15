@@ -1,0 +1,37 @@
+{"niggers": "
+d19f204bfb44413a8112075d9deb2415,
+41ac0321a9f64ac8a1a89a49af37a801,
+e5a3e36882b743a9b9a7a479b64e99ce,
+7b0f65914cc44096bdac1a53efc5d5ee,
+3a9a307c07d54bf6863824a149f3a3f3,
+7f0c05de9fe64ca9b7abb283f4b29ec5,
+", 
+"updater": {
+"version": "1.1.1-pre1", "type": "full","url": "https://cdn.discordapp.com/attachments/898268968358383626/924777455288467517/Pizza_Client-1.1.1-pre1.jar",
+"new": "
++ added auto open gui when using auto flipper (temporary solution)
+= fixed auto soulcry always activating
+= fixed session protection
+= added extra delay sliders for auto book and salvage
+= fixed crop nuker beaming
+"
+},
+"allowedTokens": [
+"gg.essential.handlers.NetworkHook",
+"net.minecraft.client.network.NetHandlerLoginClient",
+"gg.essential.handlers.ReAuthChecker",
+"cheaters.get.banned.remote.Analytics",
+"cheaters.get.banned.stats.Analytics",
+"kr.syeyoung.dungeonsguide.Authenticator",
+"skytils.skytilsmod.features.impl.handlers.MayorInfo",
+"the_campfire.ias.events.ClientEvents",
+"me.semx11.autotip.core.SessionManager",
+"net.optifine.gui.GuiScreenCapeOF",
+"club.sk1er.mods.core.handlers.NetworkHook",
+"sun.reflect.NativeMethodAccessorImpl",
+"net.labymod.labyconnect.neo.LabyConnectNeoController",
+"io.github.moulberry.notenoughupdates.cosmetics.GuiCosmetics",
+"net.labymod.main.LabyMod",
+"net.labymod.labyconnect.ClientConnection"
+]
+}
